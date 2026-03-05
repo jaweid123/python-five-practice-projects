@@ -33,4 +33,4 @@ A classic word guessing game where the player guesses letters to reveal a hidden
 
 The purpose of this repository is to practice Python programming and improve problem-solving skills through small projects.
 ## Create by
-##Jasweid ##Moraadi
+## Jaweid ## Moraadi
